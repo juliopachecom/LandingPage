@@ -8,7 +8,7 @@
 
 html{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-scroll-behavior: smooth;
+scroll-behavior: smooth; 
 }
 
 a{
@@ -21,7 +21,7 @@ nav{
     text-decoration: none;
     background-color: #484872;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 0 15%;
     height: 75px;
     line-height: 75px;    
@@ -33,7 +33,7 @@ nav{
     top: 0;
     left: 0;
     width: 100%;
-    justify-content: space-between;
+    justify-content: space-evenly;
     display: flex;
     color: whitesmoke;
     padding: 20px;
